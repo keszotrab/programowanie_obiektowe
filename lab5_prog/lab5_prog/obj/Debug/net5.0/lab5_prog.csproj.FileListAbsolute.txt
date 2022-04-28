@@ -1,0 +1,16 @@
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\lab5_prog.exe
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\lab5_prog.deps.json
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\lab5_prog.runtimeconfig.json
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\lab5_prog.runtimeconfig.dev.json
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\lab5_prog.dll
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\ref\lab5_prog.dll
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\bin\Debug\net5.0\lab5_prog.pdb
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.csproj.AssemblyReference.cache
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.AssemblyInfoInputs.cache
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.AssemblyInfo.cs
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.csproj.CoreCompileInputs.cache
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.dll
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\ref\lab5_prog.dll
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.pdb
+D:\Users\Bartosz.Adamek\source\repos\lab5_prog\lab5_prog\obj\Debug\net5.0\lab5_prog.genruntimeconfig.cache
