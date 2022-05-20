@@ -1,0 +1,16 @@
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\lab_8_prOb.exe
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\lab_8_prOb.deps.json
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\lab_8_prOb.runtimeconfig.json
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\lab_8_prOb.runtimeconfig.dev.json
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\lab_8_prOb.dll
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\ref\lab_8_prOb.dll
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\bin\Debug\net5.0\lab_8_prOb.pdb
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.csproj.AssemblyReference.cache
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.AssemblyInfoInputs.cache
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.AssemblyInfo.cs
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.dll
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\ref\lab_8_prOb.dll
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.pdb
+D:\Users\bartosz.adamek\source\repos\lab_8_prOb\lab_8_prOb\obj\Debug\net5.0\lab_8_prOb.genruntimeconfig.cache
